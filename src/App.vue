@@ -44,6 +44,12 @@ onMounted(() => {
                 </router-link>
               </li>
               <li>
+                <router-link to="/AboutMe">
+                  <a href="#"
+                    class="block py-3 px-4 text-gray-900 lg:py-0 dark:text-white lg:hover:underline text-xl lg:px-0">創辦人的故事</a>
+                </router-link>
+              </li>
+              <li>
                 <router-link to="/Feature">
                   <a href="#"
                     class="block py-3 px-4 text-gray-900 lg:py-0 dark:text-white lg:hover:underline text-xl lg:px-0">專利</a>
@@ -53,12 +59,6 @@ onMounted(() => {
                 <router-link to="/Product">
                   <a href="#"
                     class="block py-3 px-4 text-gray-900 lg:py-0 dark:text-white lg:hover:underline text-xl lg:px-0">產品</a>
-                </router-link>
-              </li>
-              <li>
-                <router-link to="/AboutMe">
-                  <a href="#"
-                    class="block py-3 px-4 text-gray-900 lg:py-0 dark:text-white lg:hover:underline text-xl lg:px-0">創辦人的故事</a>
                 </router-link>
               </li>
               <li>

@@ -96,13 +96,17 @@
                 <!-- Pricing Card -->
                 <div
                     class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-200 shadow-sm dark:border-gray-700 xl:p-8 dark:text-white dark:bg-gray-800">
-                    <h3 class="mb-4 text-2xl font-semibold">Company</h3>
-                    <p class="text-gray-500 text-light sm:text-lg dark:text-gray-400">Relevant for multiple users,
-                        extended & premium support.</p>
+                    <h3 class="mb-4 text-2xl font-semibold">樟樹護心通暢活化複方精油</h3>
+                    <!-- <p class="text-gray-500 text-light sm:text-lg dark:text-gray-400">Best option for personal use and
+                        for your next side projects.</p> -->
                     <div class="flex justify-center items-baseline my-8">
-                        <span class="mr-2 text-5xl font-extrabold">$99</span>
-                        <span class="text-gray-500">/month</span>
+                        <span class="mr-2 text-5xl font-extrabold">US $380</span>
+                        <span class="text-gray-500">/10ml</span>
                     </div>
+                    <img class="h-auto max-w-full"
+                        src="https://holytree.s3.us-west-2.amazonaws.com/%E9%A6%99%E8%8C%85%E8%A4%87%E6%96%B9.jpg"
+                        alt="image description">
+
                     <!-- List -->
                     <ul role="list" class="mb-8 space-y-4 text-left">
                         <li class="flex items-center space-x-3">
@@ -113,7 +117,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>Individual configuration</span>
+                            <span>用途：抗老、神清氣爽、防止肌膚粗糙</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -123,7 +127,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>No setup, monthly, or hidden fees</span>
+                            <span>外用</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -133,7 +137,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>Team size: <span class="font-semibold">10 developers</span></span>
+                            <span>配方成份: 香茅、檸檬香茅、迷迭香、廣藿香、天竺葵、橙、薊草、檸檬</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -143,7 +147,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>Premium support: <span class="font-semibold">24 months</span></span>
+                            <span>中華民國專利證書：發明第I 407995號</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -153,23 +157,37 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>Free updates: <span class="font-semibold">24 months</span></span>
+                            <span>GC/MS指紋圖譜、全成分分析、國際SGS產品安全QC檢驗</span>
+                        </li>
+                        <li class="flex items-center space-x-3">
+                            <!-- Icon -->
+                            <svg class="flex-shrink-0 w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd"
+                                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                                    clip-rule="evenodd"></path>
+                            </svg>
+                            <span>五行屬水(腎、膀胱)、內分泌系統（血氣、荷爾蒙）</span>
                         </li>
                     </ul>
-                    <a href="#"
+                    <!-- <a href="#"
                         class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-primary-900">Get
-                        started</a>
+                        started</a> -->
                 </div>
                 <!-- Pricing Card -->
                 <div
                     class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-200 shadow-sm dark:border-gray-700 xl:p-8 dark:text-white dark:bg-gray-800">
-                    <h3 class="mb-4 text-2xl font-semibold">Enterprise</h3>
-                    <p class="text-gray-500 text-light sm:text-lg dark:text-gray-400">Best for large scale uses and
-                        extended redistribution rights.</p>
+                    <h3 class="mb-4 text-2xl font-semibold">千年台灣檜木精油</h3>
+                    <!-- <p class="text-gray-500 text-light sm:text-lg dark:text-gray-400">Best option for personal use and
+                        for your next side projects.</p> -->
                     <div class="flex justify-center items-baseline my-8">
-                        <span class="mr-2 text-5xl font-extrabold">$499</span>
-                        <span class="text-gray-500">/month</span>
+                        <span class="mr-2 text-5xl font-extrabold">US $380</span>
+                        <span class="text-gray-500">/10ml</span>
                     </div>
+                    <img class="h-auto max-w-full"
+                        src="https://holytree.s3.us-west-2.amazonaws.com/%E9%A6%99%E8%8C%85%E8%A4%87%E6%96%B9.jpg"
+                        alt="image description">
+
                     <!-- List -->
                     <ul role="list" class="mb-8 space-y-4 text-left">
                         <li class="flex items-center space-x-3">
@@ -180,7 +198,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>Individual configuration</span>
+                            <span>用途：抗老、神清氣爽、防止肌膚粗糙</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -190,7 +208,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>No setup, monthly, or hidden fees</span>
+                            <span>外用</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -200,7 +218,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>Team size: <span class="font-semibold">100+ developers</span></span>
+                            <span>配方成份: 香茅、檸檬香茅、迷迭香、廣藿香、天竺葵、橙、薊草、檸檬</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -210,7 +228,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>Premium support: <span class="font-semibold">36 months</span></span>
+                            <span>中華民國專利證書：發明第I 407995號</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -220,22 +238,37 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>Free updates: <span class="font-semibold">36 months</span></span>
+                            <span>GC/MS指紋圖譜、全成分分析、國際SGS產品安全QC檢驗</span>
+                        </li>
+                        <li class="flex items-center space-x-3">
+                            <!-- Icon -->
+                            <svg class="flex-shrink-0 w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd"
+                                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                                    clip-rule="evenodd"></path>
+                            </svg>
+                            <span>五行屬水(腎、膀胱)、內分泌系統（血氣、荷爾蒙）</span>
                         </li>
                     </ul>
-                    <a href="#"
+                    <!-- <a href="#"
                         class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-primary-900">Get
-                        started</a>
+                        started</a> -->
                 </div>
+                <!-- Pricing Card -->
                 <div
                     class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-200 shadow-sm dark:border-gray-700 xl:p-8 dark:text-white dark:bg-gray-800">
-                    <h3 class="mb-4 text-2xl font-semibold">Enterprise</h3>
-                    <p class="text-gray-500 text-light sm:text-lg dark:text-gray-400">Best for large scale uses and
-                        extended redistribution rights.</p>
+                    <h3 class="mb-4 text-2xl font-semibold">千年檜木活力乳霜</h3>
+                    <!-- <p class="text-gray-500 text-light sm:text-lg dark:text-gray-400">Best option for personal use and
+                        for your next side projects.</p> -->
                     <div class="flex justify-center items-baseline my-8">
-                        <span class="mr-2 text-5xl font-extrabold">$499</span>
-                        <span class="text-gray-500">/month</span>
+                        <span class="mr-2 text-5xl font-extrabold">US $120</span>
+                        <span class="text-gray-500">/50ml</span>
                     </div>
+                    <img class="h-auto max-w-full"
+                        src="https://holytree.s3.us-west-2.amazonaws.com/%E9%A6%99%E8%8C%85%E8%A4%87%E6%96%B9.jpg"
+                        alt="image description">
+
                     <!-- List -->
                     <ul role="list" class="mb-8 space-y-4 text-left">
                         <li class="flex items-center space-x-3">
@@ -246,7 +279,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>Individual configuration</span>
+                            <span>用途：抗老、神清氣爽、防止肌膚粗糙</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -256,7 +289,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>No setup, monthly, or hidden fees</span>
+                            <span>外用</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -266,7 +299,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>Team size: <span class="font-semibold">100+ developers</span></span>
+                            <span>配方成份: 香茅、檸檬香茅、迷迭香、廣藿香、天竺葵、橙、薊草、檸檬</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -276,7 +309,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>Premium support: <span class="font-semibold">36 months</span></span>
+                            <span>中華民國專利證書：發明第I 407995號</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -286,12 +319,103 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>Free updates: <span class="font-semibold">36 months</span></span>
+                            <span>GC/MS指紋圖譜、全成分分析、國際SGS產品安全QC檢驗</span>
+                        </li>
+                        <li class="flex items-center space-x-3">
+                            <!-- Icon -->
+                            <svg class="flex-shrink-0 w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd"
+                                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                                    clip-rule="evenodd"></path>
+                            </svg>
+                            <span>五行屬水(腎、膀胱)、內分泌系統（血氣、荷爾蒙）</span>
                         </li>
                     </ul>
-                    <a href="#"
+                    <!-- <a href="#"
                         class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-primary-900">Get
-                        started</a>
+                        started</a> -->
+                </div>
+                <!-- Pricing Card -->
+                <div
+                    class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-200 shadow-sm dark:border-gray-700 xl:p-8 dark:text-white dark:bg-gray-800">
+                    <h3 class="mb-4 text-2xl font-semibold">生命泉源樹之精露</h3>
+                    <!-- <p class="text-gray-500 text-light sm:text-lg dark:text-gray-400">Best option for personal use and
+                        for your next side projects.</p> -->
+                    <div class="flex justify-center items-baseline my-8">
+                        <span class="mr-2 text-5xl font-extrabold">US $250</span>
+                        <span class="text-gray-500">/30ml</span>
+                    </div>
+                    <img class="h-auto max-w-full"
+                        src="https://holytree.s3.us-west-2.amazonaws.com/%E9%A6%99%E8%8C%85%E8%A4%87%E6%96%B9.jpg"
+                        alt="image description">
+
+                    <!-- List -->
+                    <ul role="list" class="mb-8 space-y-4 text-left">
+                        <li class="flex items-center space-x-3">
+                            <!-- Icon -->
+                            <svg class="flex-shrink-0 w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd"
+                                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                                    clip-rule="evenodd"></path>
+                            </svg>
+                            <span>用途：抗老、神清氣爽、防止肌膚粗糙</span>
+                        </li>
+                        <li class="flex items-center space-x-3">
+                            <!-- Icon -->
+                            <svg class="flex-shrink-0 w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd"
+                                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                                    clip-rule="evenodd"></path>
+                            </svg>
+                            <span>外用</span>
+                        </li>
+                        <li class="flex items-center space-x-3">
+                            <!-- Icon -->
+                            <svg class="flex-shrink-0 w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd"
+                                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                                    clip-rule="evenodd"></path>
+                            </svg>
+                            <span>配方成份: 香茅、檸檬香茅、迷迭香、廣藿香、天竺葵、橙、薊草、檸檬</span>
+                        </li>
+                        <li class="flex items-center space-x-3">
+                            <!-- Icon -->
+                            <svg class="flex-shrink-0 w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd"
+                                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                                    clip-rule="evenodd"></path>
+                            </svg>
+                            <span>中華民國專利證書：發明第I 407995號</span>
+                        </li>
+                        <li class="flex items-center space-x-3">
+                            <!-- Icon -->
+                            <svg class="flex-shrink-0 w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd"
+                                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                                    clip-rule="evenodd"></path>
+                            </svg>
+                            <span>GC/MS指紋圖譜、全成分分析、國際SGS產品安全QC檢驗</span>
+                        </li>
+                        <li class="flex items-center space-x-3">
+                            <!-- Icon -->
+                            <svg class="flex-shrink-0 w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd"
+                                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                                    clip-rule="evenodd"></path>
+                            </svg>
+                            <span>五行屬水(腎、膀胱)、內分泌系統（血氣、荷爾蒙）</span>
+                        </li>
+                    </ul>
+                    <!-- <a href="#"
+                        class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-primary-900">Get
+                        started</a> -->
                 </div>
             </div>
             <!-- <button type="button"
