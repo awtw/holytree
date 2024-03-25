@@ -42,7 +42,7 @@ onMounted(() => {
                   <a href="#"
                     class="block py-3 px-4 text-gray-900 lg:py-0 dark:text-white lg:hover:underline text-xl lg:px-0">首頁</a>
                 </router-link>
-              </li> 
+              </li>
               <li>
                 <router-link to="/Feature">
                   <a href="#"
@@ -56,15 +56,16 @@ onMounted(() => {
                 </router-link>
               </li>
               <li>
-                <router-link to="/Experiment">
+                <router-link to="/AboutMe">
                   <a href="#"
-                    class="block py-3 px-4 text-gray-900 lg:py-0 dark:text-white lg:hover:underline text-xl lg:px-0">實驗</a>
+                    class="block py-3 px-4 text-gray-900 lg:py-0 dark:text-white lg:hover:underline text-xl lg:px-0">創辦人的故事</a>
                 </router-link>
               </li>
               <li>
                 <router-link to="/Contact">
                   <a href="#"
-                    class="block py-3 px-4 text-gray-900 lg:py-0 dark:text-white lg:hover:underline text-xl lg:px-0">聯絡我們 </a>
+                    class="block py-3 px-4 text-gray-900 lg:py-0 dark:text-white lg:hover:underline text-xl lg:px-0">聯絡我們
+                  </a>
                 </router-link>
               </li>
             </ul>
