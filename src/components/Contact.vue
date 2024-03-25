@@ -32,32 +32,30 @@
             </div>
         </div>
     </section>
-    <div class="flex p-3">
-        <section class="bg-white dark:bg-gray-900">
-            <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6 ">
-                <div class="mx-auto max-w-screen-sm text-center">
-                    <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">聯絡Line
-                    </h2>
-                    <img src="https://holytree.s3.us-west-2.amazonaws.com/line.jpg" class="dark:hidden w-56 mx-auto"
-                        alt="qr code" />
-                    <img src="https://holytree.s3.us-west-2.amazonaws.com/line.jpg"
-                        class="hidden dark:block w-56 mx-auto" alt="qr code" />
-                </div>
+    <section class="bg-white dark:bg-gray-900">
+        <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6 ">
+            <div class="mx-auto max-w-screen-sm text-center">
+                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">聯絡Line
+                </h2>
+                <img src="https://holytree.s3.us-west-2.amazonaws.com/line.jpg" class="dark:hidden w-56 mx-auto"
+                    alt="qr code" />
+                <img src="https://holytree.s3.us-west-2.amazonaws.com/line.jpg" class="hidden dark:block w-56 mx-auto"
+                    alt="qr code" />
             </div>
-        </section>
-        <section class="bg-white dark:bg-gray-900">
-            <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6 ">
-                <div class="mx-auto max-w-screen-sm text-center">
-                    <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">聯絡Ｗechat
-                    </h2>
-                    <img src="https://holytree.s3.us-west-2.amazonaws.com/wechat.jpg" class="dark:hidden w-56 mx-auto"
-                        alt="qr code" />
-                    <img src="https://holytree.s3.us-west-2.amazonaws.com/wechat.jpg"
-                        class="hidden dark:block w-56 mx-auto" alt="qr code" />
-                </div>
+        </div>
+    </section>
+    <section class="bg-white dark:bg-gray-900">
+        <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6 ">
+            <div class="mx-auto max-w-screen-sm text-center">
+                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">聯絡Ｗechat
+                </h2>
+                <img src="https://holytree.s3.us-west-2.amazonaws.com/wechat.jpg" class="dark:hidden w-56 mx-auto"
+                    alt="qr code" />
+                <img src="https://holytree.s3.us-west-2.amazonaws.com/wechat.jpg" class="hidden dark:block w-56 mx-auto"
+                    alt="qr code" />
             </div>
-        </section>
-    </div>
+        </div>
+    </section>
 
 </template>
 
