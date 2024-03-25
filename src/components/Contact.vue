@@ -21,14 +21,7 @@
                             d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
                             clip-rule="evenodd"></path>
                     </svg>
-                </a>
-
-                <iframe class="h-auto max-w-full"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.5012658184296!2d121.5219063!3d25.1187386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ae89a653aa69%3A0xb1c0886495f96099!2zMTEy5Y-w5YyX5biC5YyX5oqV5Y2A5aSp5q-N6KW_6LevMTMyLTnomZ8!5e0!3m2!1szh-TW!2stw!4v1711249503851!5m2!1szh-TW!2stw"
-                    alt="image description" llowfullscreen="" loading="lazy"
-                    referrerpolicy="no-referrer-when-downgrade">
-
-                </iframe>
+                </a>  
             </div>
         </div>
     </section>

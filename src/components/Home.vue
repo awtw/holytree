@@ -15,10 +15,16 @@
                 <p class="max-w-2xl mb-3 font-light text-gray-500 lg:mb-3 md:text-lg lg:text-xl dark:text-gray-400">
                     台灣森林寶藏，生命因大孜然而發光，樹王因大自然而榮耀</p>
                 <p class="max-w-2xl mb-3 font-light text-gray-500 lg:mb-3 md:text-lg lg:text-xl dark:text-gray-400">
+                    創辦人張美齡受歐洲芳療體系嚴謹訓練，將歐洲醫學「調油技術」與「黃帝內經」之氣學、陰陽、五行、臟腑、經絡、望聞問切、養生結合。</p>
+                <p class="max-w-2xl mb-3 font-light text-gray-500 lg:mb-3 md:text-lg lg:text-xl dark:text-gray-400">
+                    創辦人黃錫陽認為，宇宙萬物之間存在著人與天地相應的聯繫，人是大自然的一份子。尤其近年台灣少子化、老年化。工作長期過勞。台灣人的健康一代不如一代。</p>
+                <p class="max-w-2xl mb-3 font-light text-gray-500 lg:mb-3 md:text-lg lg:text-xl dark:text-gray-400">
+                    樹王堅持相信「一方水土養一方人」，因此創辦蒸餾廠遵循古法人工取火、灶窯蒸餾、溫度控制萃取最完整的活性物質。並結合本土芳療植物協助福爾摩沙島民尋求人與自然結合的最初道路。</p>
+                <p class="max-w-2xl mb-3 font-light text-gray-500 lg:mb-3 md:text-lg lg:text-xl dark:text-gray-400">
                     台北市天母西路132-9號 TEL: 0932-256-287</p>
                 <p class="max-w-2xl mb-13 font-light text-gray-500 lg:mb-3 md:text-lg lg:text-xl dark:text-gray-400">
                     Email: holy.tree@gmail.com</p>
-                <a href="#"
+                <a href="https://maps.app.goo.gl/56mt3DmuosdEvJeV7"
                     class="inline-flex items-center justify-center px-5 py-3 mt-3 mr-3 text-base font-medium text-center text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
                     前往樹王
                     <svg class="w-5 h-5 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20"
