@@ -104,7 +104,7 @@
                         <span class="text-gray-500">/10ml</span>
                     </div>
                     <img class="h-auto max-w-full"
-                        src="https://holytree.s3.us-west-2.amazonaws.com/%E9%A6%99%E8%8C%85%E8%A4%87%E6%96%B9.jpg"
+                        src="https://holytree.s3.us-west-2.amazonaws.com/%E6%A8%9F%E6%A8%B9.jpg"
                         alt="image description">
 
                     <!-- List -->
@@ -185,7 +185,7 @@
                         <span class="text-gray-500">/10ml</span>
                     </div>
                     <img class="h-auto max-w-full"
-                        src="https://holytree.s3.us-west-2.amazonaws.com/%E9%A6%99%E8%8C%85%E8%A4%87%E6%96%B9.jpg"
+                        src="https://holytree.s3.us-west-2.amazonaws.com/%E5%8D%83%E5%B9%B4%E6%AA%9C%E6%9C%A8.jpg"
                         alt="image description">
 
                     <!-- List -->
@@ -266,7 +266,7 @@
                         <span class="text-gray-500">/50ml</span>
                     </div>
                     <img class="h-auto max-w-full"
-                        src="https://holytree.s3.us-west-2.amazonaws.com/%E9%A6%99%E8%8C%85%E8%A4%87%E6%96%B9.jpg"
+                        src="https://holytree.s3.us-west-2.amazonaws.com/%E6%AA%9C%E6%9C%A8%E4%B9%B3%E9%9C%9C.jpg"
                         alt="image description">
 
                     <!-- List -->
@@ -347,7 +347,7 @@
                         <span class="text-gray-500">/30ml</span>
                     </div>
                     <img class="h-auto max-w-full"
-                        src="https://holytree.s3.us-west-2.amazonaws.com/%E9%A6%99%E8%8C%85%E8%A4%87%E6%96%B9.jpg"
+                        src="https://holytree.s3.us-west-2.amazonaws.com/%E7%B2%BE%E9%9C%B2.jpg"
                         alt="image description">
 
                     <!-- List -->

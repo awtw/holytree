@@ -21,7 +21,10 @@
                             d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
                             clip-rule="evenodd"></path>
                     </svg>
-                </a>  
+                </a>
+                <img class="h-auto max-w-full"
+                    src="https://holytree.s3.us-west-2.amazonaws.com/%E7%B1%B3%E8%98%AD%E5%B0%8F%E9%8E%AE.jpg"
+                    alt="image description">
             </div>
         </div>
     </section>
@@ -42,10 +45,10 @@
             <div class="mx-auto max-w-screen-sm text-center">
                 <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">聯絡Ｗechat
                 </h2>
-                <img src="https://holytree.s3.us-west-2.amazonaws.com/wechat.jpg" class="dark:hidden w-56 mx-auto"
+                <img src="https://holytree.s3.us-west-2.amazonaws.com/wechat-s.png" class="dark:hidden w-56 mx-auto"
                     alt="qr code" />
-                <img src="https://holytree.s3.us-west-2.amazonaws.com/wechat.jpg" class="hidden dark:block w-56 mx-auto"
-                    alt="qr code" />
+                <img src="https://holytree.s3.us-west-2.amazonaws.com/wechat-s.png"
+                    class="hidden dark:block w-56 mx-auto" alt="qr code" />
             </div>
         </div>
     </section>
