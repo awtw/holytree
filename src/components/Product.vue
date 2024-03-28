@@ -19,7 +19,7 @@
                     <!-- <p class="text-gray-500 text-light sm:text-lg dark:text-gray-400">Best option for personal use and
                         for your next side projects.</p> -->
                     <div class="flex justify-center items-baseline my-8">
-                        <span class="mr-2 text-5xl font-extrabold">US $210</span>
+                        <!-- <span class="mr-2 text-5xl font-extrabold">US $210</span> -->
                         <span class="text-gray-500">/10ml</span>
                     </div>
                     <img class="h-auto max-w-full"
@@ -100,7 +100,7 @@
                     <!-- <p class="text-gray-500 text-light sm:text-lg dark:text-gray-400">Best option for personal use and
                         for your next side projects.</p> -->
                     <div class="flex justify-center items-baseline my-8">
-                        <span class="mr-2 text-5xl font-extrabold">US $380</span>
+                        <!-- <span class="mr-2 text-5xl font-extrabold">US $380</span> -->
                         <span class="text-gray-500">/10ml</span>
                     </div>
                     <img class="h-auto max-w-full"
@@ -181,7 +181,7 @@
                     <!-- <p class="text-gray-500 text-light sm:text-lg dark:text-gray-400">Best option for personal use and
                         for your next side projects.</p> -->
                     <div class="flex justify-center items-baseline my-8">
-                        <span class="mr-2 text-5xl font-extrabold">US $380</span>
+                        <!-- <span class="mr-2 text-5xl font-extrabold">US $380</span> -->
                         <span class="text-gray-500">/10ml</span>
                     </div>
                     <img class="h-auto max-w-full"
@@ -262,7 +262,7 @@
                     <!-- <p class="text-gray-500 text-light sm:text-lg dark:text-gray-400">Best option for personal use and
                         for your next side projects.</p> -->
                     <div class="flex justify-center items-baseline my-8">
-                        <span class="mr-2 text-5xl font-extrabold">US $120</span>
+                        <!-- <span class="mr-2 text-5xl font-extrabold">US $120</span> -->
                         <span class="text-gray-500">/50ml</span>
                     </div>
                     <img class="h-auto max-w-full"
@@ -343,7 +343,7 @@
                     <!-- <p class="text-gray-500 text-light sm:text-lg dark:text-gray-400">Best option for personal use and
                         for your next side projects.</p> -->
                     <div class="flex justify-center items-baseline my-8">
-                        <span class="mr-2 text-5xl font-extrabold">US $250</span>
+                        <!-- <span class="mr-2 text-5xl font-extrabold">US $250</span> -->
                         <span class="text-gray-500">/30ml</span>
                     </div>
                     <img class="h-auto max-w-full"

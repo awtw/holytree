@@ -23,7 +23,7 @@
                 <p class="max-w-2xl mb-3 font-light text-gray-500 lg:mb-3 md:text-lg lg:text-xl dark:text-gray-400">
                     台北市天母西路132-9號 TEL: 0932-256-287</p>
                 <p class="max-w-2xl mb-13 font-light text-gray-500 lg:mb-3 md:text-lg lg:text-xl dark:text-gray-400">
-                    Email: holy.tree@gmail.com</p>
+                    Email: holytree.tw@gmail.com</p>
                 <a href="https://maps.app.goo.gl/56mt3DmuosdEvJeV7"
                     class="inline-flex items-center justify-center px-5 py-3 mt-3 mr-3 text-base font-medium text-center text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
                     前往樹王
