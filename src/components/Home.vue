@@ -15,9 +15,13 @@
                 <p class="max-w-2xl mb-3 font-light text-gray-500 lg:mb-3 md:text-lg lg:text-xl dark:text-gray-400">
                     台灣森林寶藏，生命因大孜然而發光，樹王因大自然而榮耀</p>
                 <p class="max-w-2xl mb-3 font-light text-gray-500 lg:mb-3 md:text-lg lg:text-xl dark:text-gray-400">
-                    創辦人張美齡受歐洲芳療體系嚴謹訓練，將歐洲醫學「調油技術」與「黃帝內經」之氣學、陰陽、五行、臟腑、經絡、望聞問切、養生結合。</p>
+                    <!-- 創辦人張美齡受歐洲芳療體系嚴謹訓練，將歐洲醫學「調油技術」與「黃帝內經」之氣學、陰陽、五行、臟腑、經絡、望聞問切、養生結合。 -->
+                    創辦人張美齡深覺人類為大自然的一部份，因此受到自然法則的支配，受歐洲.....養生結合，落實為健康Heal,關懷Care,生命Life理念
+                </p>
                 <p class="max-w-2xl mb-3 font-light text-gray-500 lg:mb-3 md:text-lg lg:text-xl dark:text-gray-400">
-                    創辦人黃錫陽認為，宇宙萬物之間存在著人與天地相應的聯繫，人是大自然的一份子。尤其近年台灣少子化、老年化。工作長期過勞。台灣人的健康一代不如一代。</p>
+                    創辦人黃錫陽認為，宇宙萬物之間存在著人與天地相應的聯繫，人是大自然的一份子。尤其近年台灣少子化、老年化。工作長期過勞。台灣人的健康一代不如一代，
+                    要常心懷感恩中研院，各大學森林系 化學系，生命科學系，國家生技資源中心，食品科學研究所等團隊在研究臺灣森林寶藏這個領域多年的努力和提供重要醫學文獻，因為這跟我們的健康和後代子孫的生命財產息息相關。
+                </p>
                 <p class="max-w-2xl mb-3 font-light text-gray-500 lg:mb-3 md:text-lg lg:text-xl dark:text-gray-400">
                     樹王堅持相信「一方水土養一方人」，因此創辦蒸餾廠遵循古法人工取火、灶窯蒸餾、溫度控制萃取最完整的活性物質。並結合本土芳療植物協助福爾摩沙島民尋求人與自然結合的最初道路。</p>
                 <p class="max-w-2xl mb-3 font-light text-gray-500 lg:mb-3 md:text-lg lg:text-xl dark:text-gray-400">
@@ -57,7 +61,7 @@
             </div>
             <div>
                 <img class="h-auto max-w-full rounded-lg"
-                    src="https://holytree.s3.us-west-2.amazonaws.com/%E6%A8%9F%E6%A8%B9%E8%AD%B7%E5%BF%83.jpg" alt="">
+                    src="https://holytree.s3.us-west-2.amazonaws.com/%E5%90%8D%E4%BA%BA%E9%8C%84.jpg" alt="">
             </div>
         </div>
         <div class="grid gap-4">
@@ -68,7 +72,7 @@
             </div>
             <div>
                 <img class="h-auto max-w-full rounded-lg"
-                    src="https://holytree.s3.us-west-2.amazonaws.com/%E5%8B%95%E8%84%88%E7%A1%AC%E5%8C%96.jpg" alt="">
+                    src="https://holytree.s3.us-west-2.amazonaws.com/%E6%B4%BB%E5%8B%9501.jpg" alt="">
             </div>
             <div>
                 <img class="h-auto max-w-full rounded-lg"
@@ -83,7 +87,8 @@
             </div>
             <div>
                 <img class="h-auto max-w-full rounded-lg"
-                    src="https://holytree.s3.us-west-2.amazonaws.com/%E5%B0%88%E5%88%A9%E9%9B%86%E5%90%88.jpg" alt="">
+                    src="https://holytree.s3.us-west-2.amazonaws.com/%E8%88%87%E7%A5%9E%E6%9C%A8%E5%90%88%E7%85%A7.png"
+                    alt="">
             </div>
             <div>
                 <img class="h-auto max-w-full rounded-lg"
@@ -95,18 +100,15 @@
         <div class="grid gap-4">
             <div>
                 <img class="h-auto max-w-full rounded-lg"
-                    src="https://holytree.s3.us-west-2.amazonaws.com/%E5%90%84%E7%A8%AE%E7%B2%BE%E6%B2%B9%E4%BB%8B%E7%B4%B9.jpg"
-                    alt="">
+                    src="https://holytree.s3.us-west-2.amazonaws.com/%E6%B4%BB%E5%8B%9502.jpg" alt="">
             </div>
             <div>
                 <img class="h-auto max-w-full rounded-lg"
-                    src="https://holytree.s3.us-west-2.amazonaws.com/%E6%8A%91%E5%88%B6%E8%85%AB%E7%98%A4%E7%B4%B0%E8%83%9E%E7%B5%84%E5%90%88%E7%89%A9.jpg"
-                    alt="">
+                    src="https://holytree.s3.us-west-2.amazonaws.com/%E6%B4%BB%E5%8B%9503.jpg" alt="">
             </div>
             <div>
                 <img class="h-auto max-w-full rounded-lg"
-                    src="https://holytree.s3.us-west-2.amazonaws.com/%E9%86%AB%E5%AD%B8%E5%90%8D%E4%BA%BA%E9%8C%84.jpg"
-                    alt="">
+                    src="https://holytree.s3.us-west-2.amazonaws.com/%E6%B4%BB%E5%8B%9504.jpg" alt="">
             </div>
         </div>
     </div>

@@ -18,13 +18,14 @@
                 <li>千年臺灣檜木、樟樹對心臟病養護論文全身穴位圖</li>
 
             </div>
+            <img class="w-full rounded-lg"
+                src="https://holytree.s3.us-west-2.amazonaws.com/%E5%BC%B5%E7%BE%8E%E9%BD%A1.jpg"
+                alt="office content 1">
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg"
-                    src="https://holytree.s3.us-west-2.amazonaws.com/%E6%A8%A1%E7%AF%84%E6%AF%8D%E8%A6%AA.png"
-                    alt="office content 1">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg"
+
+                <!-- <img class="mt-4 w-full lg:mt-10 rounded-lg"
                     src="https://holytree.s3.us-west-2.amazonaws.com/%E8%88%87%E7%A5%9E%E6%9C%A8%E5%90%88%E7%85%A7.png"
-                    alt="office content 2">
+                    alt="office content 2"> -->
             </div>
         </div>
     </section>
