@@ -279,7 +279,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>用途：抗老、神清氣爽、防止肌膚粗糙</span>
+                            <span>用途：調理肌膚</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -299,7 +299,8 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>配方成份: 香茅、檸檬香茅、迷迭香、廣藿香、天竺葵、橙、薊草、檸檬</span>
+                            <span>配方成份: 千年台灣檜木精油、百年香樟精油、迷迭香、尤加利、茶樹、薄荷、鱷梨、薊草、檜木純露
+                            </span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -329,7 +330,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>五行屬水(腎、膀胱)、內分泌系統（血氣、荷爾蒙）</span>
+                            <span>北市衛驗字第09537411900號</span>
                         </li>
                     </ul>
                     <!-- <a href="#"
@@ -360,10 +361,10 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>用途：抗老、神清氣爽、防止肌膚粗糙</span>
+                            <span>用途：調理肌膚</span>
                         </li>
-                        <li class="flex items-center space-x-3">
-                            <!-- Icon -->
+                        <!-- <li class="flex items-center space-x-3">
+                   
                             <svg class="flex-shrink-0 w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path fill-rule="evenodd"
@@ -371,7 +372,7 @@
                                     clip-rule="evenodd"></path>
                             </svg>
                             <span>外用</span>
-                        </li>
+                        </li> -->
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
                             <svg class="flex-shrink-0 w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20"
@@ -380,7 +381,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>配方成份: 香茅、檸檬香茅、迷迭香、廣藿香、天竺葵、橙、薊草、檸檬</span>
+                            <span>專利配方成份: 檜木、肖楠、香樟、山胡椒、肉桂、柳杉、相思樹、香茅、茶樹、大葉桉、台灣衫蒸餾萃取之水溶液</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -410,7 +411,7 @@
                                     d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                     clip-rule="evenodd"></path>
                             </svg>
-                            <span>五行屬水(腎、膀胱)、內分泌系統（血氣、荷爾蒙）</span>
+                            <span>已完成IPF & OECD423實驗認證</span>
                         </li>
                     </ul>
                     <!-- <a href="#"
